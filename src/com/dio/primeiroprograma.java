@@ -5,7 +5,7 @@ import com.dio.model.Gato;
 public class primeiroprograma {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		Gato gato = new Gato();
 		Livros livros = new Livros();
 		
